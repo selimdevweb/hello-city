@@ -13,7 +13,7 @@
         <p>Its currently {{date('h:i')}}</p>
 
         <footer>
-            &copy;Copy Right {{date('Y')}}  selim ozkan &mid; <a href="#">About Us</a>
+            &copy;Copy Right {{date('Y')}}  selim ozkan &mid; <a href="/about-us">About Us</a>
         </footer>
     </body>
 </html>
